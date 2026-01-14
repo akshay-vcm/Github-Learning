@@ -13,6 +13,15 @@ now push in github main branch:   git push origin main
 can write git pull -- already updated here.
 
 
+git add .   --> all file added
 
 
+#create new branch now
+
+added branch.py
+
+#steps
+git branch
+
+git checkout -b "Akshay_Branch"
 
